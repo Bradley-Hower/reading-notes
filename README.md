@@ -1,7 +1,7 @@
 # My Reading Journal #
 My reading journal for Code Fellows.
 ## About me ##
-Good day. I am **Mr. Bradley Hower**, located in Seattle. My background is in home mortgages. My goal is to do a career switch - to work at a company where I can be part of building something awesome. Let's do it. 
+Good day. I am **Mr. Bradley Hower**, located in Seattle. My background is in home mortgages. My goal is to switch careers - to work at a company where I can be part of building something awesome. Let's do it. 
 
 [https://github.com/Bradley-Hower](https://github.com/Bradley-Hower)
 
@@ -14,7 +14,7 @@ Good day. I am **Mr. Bradley Hower**, located in Seattle. My background is in ho
 ## *Class 102, Entry 1: Growth Mindset* ##
 A growth mindset is believing in yourself. It is having the motivation, energy, and willingness to try something new. 
 
-### Things to rember to maintain a growth mindset: ###
+### Things to remember to maintain a growth mindset: ###
 1. 🛌 **Rest.** It takes energy. Come back to it later if you can't summon the needed energy.
 2. 🏁 **Remember the goal.** This is what drives you.
 3. 🔨 **Try.** Without a try, you have already failed by default. Try, try hard, and then try again.
