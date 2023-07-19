@@ -8,8 +8,8 @@ Good day. I am **Mr. Bradley Hower**, located in Seattle. My background is in ho
 ## *Table of Contents*
 #### Code 102 - Intro to Software Development
 
-- Entry 1: [Growth Mindset](https://github.com/Bradley-Hower/reading-notes/edit/main/README.md#class-102-entry-1-growth-mindset)
-- Entry 2: [Markdown](https://github.com/Bradley-Hower/reading-notes/edit/main/README.md#class-102-entry-2-markdown)
+- Entry 1: [Growth Mindset](https://bradley-hower.github.io/reading-notes/#class-102-entry-1-growth-mindset)
+- Entry 2: [Markdown](https://bradley-hower.github.io/reading-notes/#class-102-entry-2-markdown)
 
 <!-- Class 102, Entry 1: Growth Mindset - Created 2023/07/18, Modified 2023/07/18 -->
 ## *Class 102, Entry 1: Growth Mindset*
