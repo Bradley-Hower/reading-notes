@@ -11,9 +11,9 @@ Hello. Welcome. My name is Bradley Hower. I live in Seattle. Let's build somethi
 A growth mindset is believing in yourself. It is having the motivation, energy, and willingness to try something new. 
 
 ### Things to rember to maintain a growth mindset:
-1. 🛌 **Rest.** It takes energy. Come back to it later if you can't summon the needed energy.
-2. 🏁 **Remember the goal.** This is what drives you.
-3. 🔨 **Try.** Without a try, you have already failed by default. Try, try hard, and then try again.
+1. :sleeping_bed: **Rest.** It takes energy. Come back to it later if you can't summon the needed energy.
+2. :checkered_flag: **Remember the goal.** This is what drives you.
+3. :hammer: **Try.** Without a try, you have already failed by default. Try, try hard, and then try again.
 
 ![motivational image](https://github.com/Bradley-Hower/reading-notes/assets/139923955/4bdc9674-e751-466d-9800-4dbd09b11197)[^1]
 
