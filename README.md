@@ -16,5 +16,5 @@ A growth mindset is believing in yourself. It is having the motivation, energy, 
 
 [https://github.com/Bradley-Hower](https://github.com/Bradley-Hower)
 
-[^1] Image source: [https://leadingwithtrust.com/2016/04/24/focus-on-the-7-minutes-not-the-2-seconds-3-leadership-lessons-from-skydiving/](https://leadingwithtrust.com/2016/04/24/focus-on-the-7-minutes-not-the-2-seconds-3-leadership-lessons-from-skydiving/)
+[^1]: Image source: [https://leadingwithtrust.com/2016/04/24/focus-on-the-7-minutes-not-the-2-seconds-3-leadership-lessons-from-skydiving/](https://leadingwithtrust.com/2016/04/24/focus-on-the-7-minutes-not-the-2-seconds-3-leadership-lessons-from-skydiving/)
 
