@@ -122,7 +122,7 @@ Here, the message
 
 To commit all modified files:
 
-`git commit -a`
+`git commit -A`
 
 ### Pushing
 
