@@ -1,5 +1,5 @@
-<!-- Class 102, Entry 1: Growth Mindset - Created 2023/07/18, Modified 2023/07/18 -->
-## *Course 102, Entry 1: Growth Mindset*
+<!-- Class 102, Demo: Growth Mindset - Created 2023/07/18, Modified 2023/07/18 -->
+## *Course 102, Demo: Growth Mindset*
 A growth mindset is believing in yourself. It is having the motivation, energy, and willingness to try something new. 
 
 ### Things to remember to maintain a growth mindset:
