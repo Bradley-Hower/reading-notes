@@ -1,4 +1,4 @@
-## *Class 102, Entry 3: Coder's Computer*
+## *Course 102, Entry 3: Coder's Computer*
 
 The **coder's computer** is ultimately the repository for all the coder's tools. And while the tools can vary, there are two major ones that all coders use,  a text editor and Terminal. To get going, one must be well-equipped. Obviously, you are here to do so. Let's not delay!
 

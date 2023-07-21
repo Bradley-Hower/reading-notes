@@ -1,4 +1,4 @@
-## *Class 102, Entry 2: Markdown*
+## *Course 102, Entry 2: Markdown*
 
 Initially created in 2004 by **John Gruber**, Markdown is a Lightweight Markup Language (LML), a simple, easy-to-use text-encoding language which adds formatting and structure to plaintext documents via inserted symbols and statements (jointly, syntax). There are many different Markdown editors available to users, web-based and application, with all major mobile and desktop platforms being supported (Mac, iOS, Windows, Android, and Linux). Some of these options offer a preview pane feature, allowing users to immediately see the results of their edits. However, as an LML, Markdown is meant to be easy enough to use that a basic text editor should suffice, as the syntax of Markdown is designed to be very readable.
 
