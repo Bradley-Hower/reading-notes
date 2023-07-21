@@ -78,7 +78,7 @@ Files that were part of the most recent snapshot are considered "tracked". Untra
 
 ## Working File Cycle
 
-[working-file-cycle.png]
+![Working File Cycle](https://raw.githubusercontent.com/Bradley-Hower/reading-notes/main/working-file-cycle.png)
 
 ## Working Commands
 
