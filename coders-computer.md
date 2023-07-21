@@ -7,6 +7,7 @@ The **coder's computer** is ultimately the repository for all the coder's tools.
 One of the key tools for the coder is the text editor. As with any profession, one can only be as good as the tools at hand. Therefore, it is important to know what to look for in a text editor. However, keep in mind a text editor is a personal choice. Ultimately, the choice depends on what the coder likes best. 
 
 #### Text Editor vs IDE 
+
 An IDE (Integrated Development Environment) is a text editor, and more. IDEs are a combination of various software, such as compilers, debuggers, built-in Terminals, etc. Purists would say text editors are simply for editing text, nothing more. It can be hard to draw an arbitrary line.
 
 While text editors can be fancy, sometimes simple is good. Minimalism is a beautiful thing. And every computer comes with a text editor. For Windows, it's Notepad. On Mac, Text Edit. And while these editors may be lacking, they can also be expanded to hold more powers through modified versions. Best to skip the dedicated word processors though. Formatting, styling, and autocorrections in a word processor, such as Microsoft Word or Pages, will be of no help. Any formatting will not make it into the actual code. Actually, you will probably become irate trying to use a word processor for coding. The best advice is to skip word processors.
@@ -34,9 +35,10 @@ Okay. Sounds good. Perhaps you want more out of your text editor?
 ___
 
 ### Choice Text Editors
-A strong list of editors can be found on Wikipedia. [https://en.wikipedia.org/wiki/List_of_text_editors](https://en.wikipedia.org/wiki/List_of_text_editors)
 
-For a more curated 2023 list, TechRadar has some great candidates. [https://www.techradar.com/best/best-text-editors](https://www.techradar.com/best/best-text-editors])
+A strong list of editors can be found on [Wikipedia](https://en.wikipedia.org/wiki/List_of_text_editors).
+
+For a more curated 2023 list, [TechRadar](https://www.techradar.com/best/best-text-editors) has some great candidates.
 
 ## Terminal
 
