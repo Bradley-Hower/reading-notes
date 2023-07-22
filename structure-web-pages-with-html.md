@@ -51,7 +51,7 @@ For *opening tag*, there is an opening angle bracket, the tag name, lastly, the 
 
 A *closing tag* similarly consists of an opening angle bracket, a forward slash, the tag name, and the closing bracket. Note, some elements do not have closing brackets; *image* is an example. These are known as void elements. If there is no closing tag, special attention should be paid. The is likely something else that is different about that element too. Image elements, for example, have a forward slash just before the closing bracket.
 
-![HTML Element Illustrated](linkie)
+![HTML Element Illustrated](https://raw.githubusercontent.com/Bradley-Hower/reading-notes/main/element-structure.png)
 
 Note, when selecting an element, the coder should be mindful of semantics. That is to say, what is the meaning of the element and its intended use? For describing a figure, the "figure" element would make the most sense. Likewise, for a paragraph, the "paragraph" element. For things that would exist within the header, "header". And so forth. Context of use is important. The more contextual the meaning can be, the more semantic the element is. An element that is not semantic is the "div" element. It is purely functional.
 
@@ -59,7 +59,7 @@ Note, when selecting an element, the coder should be mindful of semantics. That 
 
 Living within the opening tag of the element is the **attribute**. Similarly, as with elements, a coder should be mindful of the tag within which the attribute lives. The attribute should make sense within the context of that element. It may be the case that CSS would be better suited for the element in question. 
 
-![HTML Atttribute Illustrated](linkie)
+![HTML Atttribute Illustrated](https://raw.githubusercontent.com/Bradley-Hower/reading-notes/main/attribute-structure.png)
 
 #### Nesting
 
@@ -104,3 +104,4 @@ For links, use the `<a></a>` element. Also known as the anchor element. Spaced b
 
 `<a href="https://github.com">GitHub</a>`
 
+<sub>Image source: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics</sub>
