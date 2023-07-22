@@ -1,3 +1,5 @@
+# *Course 102, Entry 3: Revisions and the Cloud*
+
 ## Version Control
 
 Through Version Control via a Version Control System (VCS), it is possible to make continuous saves, with each new save checkpoint being a version. This allows for the ability to backtrack changes and pull up code from a previous edit.
@@ -13,6 +15,7 @@ The origins story of Git is based in the Linux community. In 2002, Bitkeeper was
 ## Git – How it works
 
 ### Storage
+
 Git’s Versions Control is accomplished via “snapshots”. Snapshots are saves with a reference being logged. The working files are generally worked on a local computer, thus allowing for quick processing as delays from pushing and pulling data are greatly reduced. One of Git’s key benefits is that when a file is commited and pushed to a branch, changes can be tracked. Any time there is a mismatch from what ought to be there, Git will alert the user from which the issue has arisen. By using distributed servers and a solid data preservation structure, the risk of data loss is greatly reduced.
 
 ### Operation
@@ -24,7 +27,6 @@ There are three main states in Git: modified, staged, and committed.
 **Staged** – File prepared locally for next commit.
 
 **Commit** – Data is saved locally, and ready to be pushed to Git.
-
 
 ## Getting Started
 
@@ -46,7 +48,7 @@ Files are now tracking. The above message section holds:
 
 >any message here
 
-This can be changed to whatever description the user wishes. 
+This can be changed to whatever description the user wishes.
 
 ### Clone
 
@@ -55,7 +57,7 @@ Cloning is to download a full copy of all versions of every file from a server. 
 `git clone https://github.com/test`
 
 Here, change the URL with your server repository URL.
-To clone to a specific directory, just specify after the URL with a path argument. 
+To clone to a specific directory, just specify after the URL with a path argument.
 
 For example, `git clone https://github.com/test
 myproject` saves all to the folder, "myproject".
@@ -68,7 +70,7 @@ Local git repositories are structured in the following way:
 
 **Working Directory** - Where files reside locally for edits. Files here are considered "checked out".
 
-**Index** - The staging area. Where files reside in preparation for a commit. 
+**Index** - The staging area. Where files reside in preparation for a commit.
 
 **Head** - Marker for the most recent commit.
 
@@ -108,17 +110,17 @@ Assuming all is normal a readout similar to the following should appear:
 
 ### Committing
 
-To create a snapshot to the local directory, and prepare it for pushing, the commit command is used. 
+To create a snapshot to the local directory, and prepare it for pushing, the commit command is used.
 
 To commit a file:
 
 `git commit -m “made change x,y,z”`
 
-Here, the message 
+Here, the message
 
 >made change x,y,z
 
- is set to describe the change. Change the message accordingly. 
+ is set to describe the change. Change the message accordingly.
 
 To commit all modified files:
 
