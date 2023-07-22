@@ -14,7 +14,7 @@ The intent of this site is demonstate some of the things I can do. Please take a
 - Entry 1: [Markdown](https://bradley-hower.github.io/reading-notes/markdown)
 - Entry 2: [Coder's Computer](https://bradley-hower.github.io/reading-notes/coders-computer)
 - Entry 3: [Revisions and the Cloud](https://bradley-hower.github.io/reading-notes/revisions-and-the-cloud)
-- Entry 4: [4](https://bradley-hower.github.io/reading-notes/4)
+- Entry 4: [Structure Web Pages with HTML](https://bradley-hower.github.io/reading-notes/structure-web-page-with-html)
 - Entry 5: [5](https://bradley-hower.github.io/reading-notes/5)
 - Entry 6: [6](https://bradley-hower.github.io/reading-notes/6)
 - Entry 7: [7](https://bradley-hower.github.io/reading-notes/7)
