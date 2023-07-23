@@ -77,8 +77,9 @@ A HTML page consists of a few major elements, in the following order:
         <title></title>
     </head>
     <body>
-    </body>
+    <header></header>
     <footer></footer>
+    </body>
 </html>
 ```
 
