@@ -21,9 +21,9 @@ p {
 
 In the above example, the selector is `p` elements. The declarations are inside the curly brackets, which consist of color and font-size properties and the values of "red" and "5em", respectively.
 
-![MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) is a great reference for various CSS properties.
+[MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) is a great reference for various CSS properties.
 
-![W3 Schools](https://www.w3schools.com/css/default.asp) is another great resource.
+[W3 Schools](https://www.w3schools.com/css/default.asp) is another great resource.
 
 There are three ways to apply CSS code to an HTML document. Internal, External, and Inline.
 
