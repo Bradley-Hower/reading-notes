@@ -1,4 +1,4 @@
-# *Course 102, Entry 5: Dynamic web pages with JavaScript*
+# *Course 102, Entry 6: Dynamic web pages with JavaScript*
 
 ## JavaScript
 
@@ -26,25 +26,23 @@ Code in external file:
 
 ```
 alert("Hello World");
-
 ```
 
 ## Variables
 
-To store information, a **variable** must be used. When making varibale, this is called **declaring**. The two **keywords** that can be used to declare a variable are `let` and `const`. The `let` option being modifiable, and `const` being unchangable. To declare, a unique name must be given. This is the **identifier**. But declaring just makes it known. To give it meaning, a variable must be assgned to some **value**. This is done using the **assgnment operator**, `=`. Here is what this looks like.
+To store information, a **variable** must be used. When making varibale, this is called **declaring**. The two **keywords** that can be used to declare a variable are `let` and `const`. The `let` option being modifiable, and `const` being unchangable. To declare, a unique name must be given. This is the **identifier**. But declaring just makes it known. To give it meaning, a variable must be assgned to some **value**. This is done using the **assgnment operator**, `=`. Here is what this looks like. 
 
 ![variables_components](variables_components.png)
 
 
 
-Characters which can be used are numbers, letters, `_`, and `$`. Reserved JavaScript words can not be used. 
+Characters which can be used are numbers, letters, `_`, and `$`. Reserved JavaScript words can not be used. Note, thes are case-sensitive. 
 
-
-
+Text is known as a **string**. If numbers and strings are added on the right side of an assignment, the system has no choice but to make the sum a string. what would be "9 + porkchop" be otherwise? Note that order of operations apply. "3 + 3 + porkchop" would be "6 porkchop".
 
 ## Notable Examples
 
-Among the exampels to be mentioned, there are three major ways in which JavaScript interacts with the user's computer. One is through the browswer consule. Normally this can not be seen, unless the user right-clicks the screen and selects "Inspect". From here, outputs can be seen in the "consule" tab. 
+Among the exampels to be mentioned, there are three major ways in which JavaScript interacts with the user's computer. One is through the browswer consule. Normally this can not be seen, unless the user right-clicks the screen and selects "Inspect". From here, outputs can be seen in the "consule" tab.
 
 The second is by pop-up alert. This pop-up can either just be a notice, it can be a binary choice of "OK" or "Cancel" (thus a Boolean), or it can ask for user input.
 
@@ -58,7 +56,6 @@ The following is an example of code which will write a determined message to the
 
 ```
 console.log("Hello world.")
-
 ```
 
 ### document.write
@@ -102,7 +99,6 @@ In the following example, the user's favorite flavor of ice cream is saved as a 
 ```
 const favorite_ice_cream = prompt("What is your favorite flavor of ice cream?")
 document.write(favorite_ice_cream + ". That's a good one. ")
-
 ```
 
 Similarly, a prompt can be given based on prior data. In this example, the user is asked to come up with a punny ice cream name using the current US president's name. The president's name being prior data. This is done by seperating the data to be edited from the prompt question, via a comma. Likewise, the computer's response is indiscriminate here.
