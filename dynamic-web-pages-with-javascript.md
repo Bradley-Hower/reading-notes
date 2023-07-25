@@ -118,19 +118,19 @@ Using stored variables, another option is to respond to a previous response, suc
 const favorite_ice_cream = prompt("What is your favorite flavor of ice cream?");
 
 if (favorite_ice_cream == "vanilla"){
-    document.write("Ah, " + favorite_ice_cream + " I know that flavor.");
+    document.write("Ah, " + favorite_ice_cream + ". I know that flavor.");
 } else if (favorite_ice_cream == "chocolate"){
-    document.write("Ah, " + favorite_ice_cream + " I know that flavor.");
+    document.write("Ah, " + favorite_ice_cream + ". I know that flavor.");
 } else if (favorite_ice_cream == "caramel"){
-    document.write("Ah, " + favorite_ice_cream + " I know that flavor.");
+    document.write("Ah, " + favorite_ice_cream + ". I know that flavor.");
 } else {
     const favorite_ice_cream2 = prompt("Are you sure you wrote that correctly? Or perhaps there are any other flavors that you like?", favorite_ice_cream);
     if (favorite_ice_cream2 == "vanilla"){
-        document.write("Ah, " + favorite_ice_cream2 + " I know that flavor.");
+        document.write("Ah, " + favorite_ice_cream2 + ". I know that flavor.");
     } else if (favorite_ice_cream2 == "chocolate"){
-        document.write("Ah, " + favorite_ice_cream2 + " I know that flavor.");
+        document.write("Ah, " + favorite_ice_cream2 + ". I know that flavor.");
     } else if (favorite_ice_cream == "caramel"){
-        document.write("Ah, " + favorite_ice_cream2 + " I know that flavor.");
+        document.write("Ah, " + favorite_ice_cream2 + ". I know that flavor.");
     } else 
         document.write("You said " + favorite_ice_cream2 + "? I don't know that flavor. Hahah.");
 };
