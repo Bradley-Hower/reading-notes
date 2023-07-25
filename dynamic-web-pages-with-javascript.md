@@ -132,5 +132,6 @@ if (favorite_ice_cream == "vanilla"){
     } else if (favorite_ice_cream == "caramel"){
         document.write("Ah, " + favorite_ice_cream2 + " I know that flavor.");
     } else 
-        document.write("You said " + favorite_ice_cream2 + "? I don't know that flavor. Hahah.")};
+        document.write("You said " + favorite_ice_cream2 + "? I don't know that flavor. Hahah.");
+};
 ```
