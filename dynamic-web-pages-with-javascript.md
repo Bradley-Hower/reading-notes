@@ -38,7 +38,16 @@ To store information, a **variable** must be used. When making a variable, this 
 
 Characters that can be used are numbers, letters, `_`, and `$`. Reserved JavaScript words can not be used. Note, letters are case-sensitive. 
 
+## Data Types
+
 Text is known as a **string**. If numbers and strings are added on the right side of an assignment, the system has no choice but to make the sum a string. What would be `9 + porkchop` be otherwise? Note that order of operations applies. Logically, `3 + 3 + porkchop` would be `6 porkchop`.
+
+Additionally, there are two **comparison** operators.
+
+**Abstraction comparison** compares if two values are equal in concept. The inputs `two` and `2` are an example of this. In other words, the values are converted to the same type via type coercion before performing the comparison. Abstract comparison uses the `==` operator to run this comparison. A coouple odd-balls are that, `"1" == true` or `"" == 0` will return true.
+
+**Strict comparison** compares if two values are *actually* equal. Meaning, the two values need to be of the same type. While `2` and `1+1` are the same, `two` and `2` are not the same in strict comparison. Strict comparison uses the `===` operator to run this comparison.
+
 
 ## Notable Examples
 
