@@ -17,8 +17,8 @@ The intent of this site is demonstate some of the things I can do. Please take a
 - Entry 4: [Structure Web Pages with HTML](https://bradley-hower.github.io/reading-notes/structure-web-pages-with-html)
 - Entry 5: [Design web pages with CSS](https://bradley-hower.github.io/reading-notes/design-web-pages-with-css)
 - Entry 6: [Dynamic web pages with JavaScript](https://bradley-hower.github.io/reading-notes/dynamic-web-pages-with-javascript)
-- Entry 7: [7](https://bradley-hower.github.io/reading-notes/7)
-- Entry 8: [8](https://bradley-hower.github.io/reading-notes/8)
+- Entry 7: [Programming with JavaScript](https://bradley-hower.github.io/reading-notes/programming-with-javascript)
+- Entry 8: [Operators and Loops](https://bradley-hower.github.io/reading-notes/operators-and-loops)
 
 #### Code 201 - Foundations of Software Development
 - Entry 1: [1](https://bradley-hower.github.io/201-reading-notes/1)
