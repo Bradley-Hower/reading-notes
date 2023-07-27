@@ -4,29 +4,29 @@
 
 **Control Flow** is the the order of which code is execuded. A computer's flow starts off as being from top to bottom, but will change what is read and where if it comes accross specific comands. This happens a lot.
 
-A simple example of a switch would be in an if-else (conditional statement). Once the first line of the conditional is met, the next options are irrelevant. Thus, the computer can skip the following lines in the conditional statement and move on. 
+A simple example of a switch would be in an if-else (conditional statement). Once the first line of the conditional is met, the next options are irrelevant. Thus, the computer can skip the next lines in the conditional statement and move on.
 
 ## JavaScript Functions
 
 ### Components of a Function Definition
 
-In JavaScript, a **function** is a block of code that is set to run certain, **localized** (within the the block) code **statements**.
+In JavaScript, a **function** is a block of code that is set to run certain, **localized** (within the block) code **statements**.
 
 Calling a function, or **invoking** it, is to execute a function.
 
-A function is composed of the **keyword**, the **name** of the function, the **parameters** with paranthesis (dependent on the function workings), separarted by commas, and the then the lines of code with in curley brackets. 
+A function is composed of the **keyword**, the **name** of the function, the **parameters** with parentheses (dependent on the function workings), each separated by commas, and then the lines of code within curly brackets.
 
-Functions like other code can also be assigned to variables.
+Functions like other code can also be assigned to variables. However, when when assigning, there are some is an important considerations. Remember, to define a variable in JavaScript code, `let` or `const` needs to be used. There are workarounds to this, such as creating new variable within HTML instead.
 
 ![function components](function_components.png)
 
-Another important part of a function is the **return** statement. The return statement is written within the code curley brackets; It is what allows code to exit the function and continue on elsewhere.
+Another important part of a function is the **return** statement. The return statement is written within the code curly brackets; It is what allows code to exit the function and continue to be used elsewhere.
 
-### Componenets of a Call Function Comand
+### Components of a Call Function Comand
 
-If the function is to be invoked, the function must be typed out followed by open and closed parenthesis. The open and closed parenthisis together are known as the **operator**. Without the operator, one is just calling the object. If the function by definition has parameter components, then **values** need to be fed into the function. Once the values enter the function into the lines of code, these values are then known as **arguments**. The discerning differenece between parameters and arguments, is that parameters are in the function definintion, while arguments are when the function is being called.
+If the function is to be invoked, the function must be typed out followed by open and closed parenthesis. The open and closed parentheses together are known as the **operator**. Without the operator, one is just calling the object. If the function by definition has parameter components, then **values** need to be fed into the function. Once the values enter the function into the lines of code, these values are then known as **arguments**. The discerning difference between parameters and arguments is that parameters are in the function definition, while arguments are when the function is being called.
 
-Functions have a lot of neat uses. And while the aren't mandatory to execute code, they make it a whole lot easier and useful. The key advantage of computers is their speed. To truly utilize this puts one light years ahead.
+Functions have a lot of neat uses. And while they aren't mandatory to execute code, they make it a whole lot easier and more useful. The key advantage of computers is their speed. To truly utilize this puts one light years ahead.
 
 ## JavaScript Operators
 
