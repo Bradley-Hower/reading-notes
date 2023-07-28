@@ -4,7 +4,7 @@
 
 At its inception, JavaScript was made for use in web browsers. It allows allows for dynamic content to be created within a website. This would be considered "client-side" running. Nowadays, JavaScript runs on servers also. The most popular version of these server languages is Node.js.
 
-JavaScript can be included within the HTML file of a website, or it can be within an external JavaScript file, which is then imported with the following line of code. Examples of both are below.
+JavaScript can be included within the HTML file of a website, or it can be within an external JavaScript file, which is then imported. Examples of the lines of code to accomplish such are found both below.
 
 ### Internal
 
@@ -16,13 +16,15 @@ JavaScript can be included within the HTML file of a website, or it can be withi
 
 ### External
 
-Code within HTML file:
+#### HTML File
+
+The following line of script is normally found in the head section of the HTML file.
 
 ```
 <script src="script.js"></script>
 ```
 
-Code in an external file:
+##### JavaScript File
 
 ```
 alert("Hello World");
@@ -121,7 +123,7 @@ document.write(presidental_ice_cream + ". Hahah. That's funny.")
 
 ## Input Dependent Output
 
-Using stored variables, another option is to respond to a previous response, such as the prior question of favorite ice cream, and asking for an update or another flavor. Here is how that would look. To do so, we need to use some if statements, combined with potential responses. Thus, if a response is equal to a coded option (equal being coded by using `==`), the subsequent code runs. Otherwise, the user is asked to try again. This example does not have a loop feature. Therefore, there are only two user input runs. Note, one if-tree must be concluded before assigning a new constant.
+Using stored variables, another option is to respond to a previous response, such as the prior question of favorite ice cream, and asking for an update or another flavor. Here is how that would look. To do so, we need to use some if statements, combined with potential responses. Thus, if a response is equal to a coded option (equal being coded by using `==`), the subsequent code runs. Otherwise, the user is asked to try again. This example does not have a loop feature. Therefore, there are only two user input runs. Note, if-else commands are localized. Thus, if any code within the blocks, including declarations or assignments, are temporary.
 
 ```
 const favorite_ice_cream = prompt("What is your favorite flavor of ice cream?");
