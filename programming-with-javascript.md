@@ -2,7 +2,7 @@
 
 ## Control Flow
 
-**Control Flow** is the order in which code is executed. A computer's flow starts off being from top to bottom, but will change what is read and where if it comes across specific commands. This happens a lot.
+**Control flow** is the order in which code is executed. A computer's flow starts off being from top to bottom, but will change what is read and where if it comes across specific commands. This happens a lot.
 
 A simple example of a switch would be an if-else (conditional statement). Once the first line of the conditional is met, the next options are irrelevant. Thus, the computer can skip the next lines in the conditional statement and move on.
 
@@ -10,11 +10,11 @@ A simple example of a switch would be an if-else (conditional statement). Once t
 
 ### Components of a Function Definition
 
-In JavaScript, a **function** is a block of code that is set to run certain, **localized** (within the block) code **statements**.
+In JavaScript, a **function** is a block of code that is set to run certain, **localized** (within the block), code **statements**.
 
 Calling a function, or **invoking** it, is to execute a function.
 
-A function is composed of the **keyword**, the **name** of the function, the **parameters** with parentheses (dependent on the function workings), each separated by commas, and then the lines of code, **statements**, within curly brackets.
+A function is composed of the **keyword**, the **name** of the function, the **parameters** which are within parentheses (dependent on the function workings), each separated by commas, and then the lines of code, **statements**, within curly brackets.
 
 Functions, like other code, can also be assigned to variables. However, when assigning, there are some important considerations. Remember, when defining a variable in JavaScript, either `let` or `const` needs to be used. There are workarounds to this though, such as creating a new variable within HTML instead.
 
@@ -24,9 +24,9 @@ Another important part of a function is the **return** statement. The return sta
 
 ### Components of a Call Function Command
 
-If the function is to be invoked, the function must be typed out followed by open and closed parenthesis. The open and closed parentheses together are known as the **operator**. Without the operator, one is just calling the object. If the function by definition has parameter components, then **values** need to be fed into the function. Once the values enter the function into the lines of code, these values are then known as **arguments**. The discerning difference between parameters and arguments is that parameters are in the function definition, while arguments are values that have entered the statements when the function is being called.
+If the function is to be invoked, the function name must be typed out followed by open and closed parenthesis. The open and closed parentheses together are known as the **operator**. Without the operator, one is just calling the object. If the function by definition has parameter components, then **values** need to be fed into the function, replacing the places of the parameters. Once the values enter the function into the lines of code, these values are then known as **arguments**. The discerning difference between parameters and arguments is that parameters are in the function definition, while arguments are values that have entered the statements when the function is being called.
 
-Functions have a lot of neat uses. And while they aren't mandatory to execute code, they make it a whole lot easier and more useful. The key advantage of computers is their speed. To truly utilize this puts one lightyears ahead.
+Functions have a lot of neat uses. And while they aren't mandatory to execute code, they make it a whole lot easier and more useful. The key advantage of computers is their efficiency. Less code can be used and code can be repurposed.
 
 ## JavaScript Operators
 
@@ -41,6 +41,8 @@ Functions have a lot of neat uses. And while they aren't mandatory to execute co
 	    %	Modulus (Division Remainder)
 	    ++	Increment
 	    --	Decrement
+
+Note, increment and decrement operators will still work in a loop, even if entered into console.log command.
 
 ### Assignment Operators
     Operator	Example	    Same As
