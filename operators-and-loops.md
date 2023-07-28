@@ -18,7 +18,7 @@ Loops have the ability to reduce repetitive parts of code. Also, loops allow ite
 
 ## While Loops
 
-In **while loops**, a **condition** is taken into consideration if it is true or false. A condition is any logical expression which can be tested. If the condition is true, the statement within the block is executed. In determining if a conditional statement is true or false, the computer is **evaluating** it. The increment or decrement is then applied (if applicable). Increments and decrements are applied to argument values in an expression which is within the condition. Note, other more complex alterations can occur, other than just an increment or decrement. The while loop function then runs again, evaluating the condition. The process repeats (without limit) until the condition runs false at evaluation, at which point the loop will stop.
+In **while loops**, a **condition** is taken into consideration if it is true or false. A condition is any logical expression which can be tested. If the condition is true, the statement within the block is executed. In determining if a conditional statement is true or false, the computer is **evaluating** it. As the last written statement line, an increment or decrement is then applied (if applicable). Increments and decrements are written to be applied to argument values in an expression that is within the condition. Note, other more complex alterations can occur, other than just an increment or decrement. The while loop function then runs again, evaluating the condition. The process repeats (without limit) until the condition runs false at evaluation, at which point the loop will stop.
 
 ![parts of while loop](https://raw.githubusercontent.com/Bradley-Hower/reading-notes/main/partsof_whileloops.png)
 
