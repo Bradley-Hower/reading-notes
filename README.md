@@ -1,4 +1,4 @@
-# My Reading Journal :book:
+# My Reading Journal
 My reading journal for Code Fellows.
 ## About me
 Good day. I am **Mr. Bradley Hower**, located in Seattle. My background is in home mortgages. My goal is to switch careers - to work at a company where I can be part of building something awesome. Let's do it.
