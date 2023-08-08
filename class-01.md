@@ -2,6 +2,8 @@
 
 ## Components of a Web Page
 
+Websites are probably the funnest part of the internet. But, in a basic sense, how do they work.
+
 ### HTTP - A Poem
 
 The lights come on, the browswer comes up,
@@ -33,7 +35,7 @@ to display my favorite site.
 
 ### Parsing of HTML, CS, and JS Files
 
-Firstly, the browers parses and HTML file. After running Through, it will find any link elements refrencing CSS files and any script elements referencing any JavaScript.
+Firstly, the browers parses an HTML file. After running through, it will find any link elements refrencing CSS files and any script elements referencing any JavaScript.
 
 Knowing that there are CSS and JavaScript files, the brower then request those from the server.
 
@@ -47,7 +49,7 @@ When adding images to a website, it is important to be complied with copyright l
 
 ### String vs Numbers
 
-To create a string in JavaScript, an text needs to be in quotes or apostrophies, preferrably apostrophies when possible.
+To create a string in JavaScript, text needs to be in quotes or apostrophies, preferrably apostrophies when possible.
 
 To enter a number, a numerical digit is the choice. No quotes necessary.
 
@@ -84,27 +86,27 @@ Living within the opening tag of the element is the **attribute**, which holds i
 
 ## HTML Tags
 
-## Difference Between <article> and <section>
+### Difference Between <article> and <section>
 
 Article and section are similar in their functionality. They used to hold content. However, `<section>` is moreso used to hold subparts of a webpage. The `<article>` element is moreso used to hold information which can stand on its own and still make sense.
 
-## Typical Elements of a Website
+### Typical Elements of a Website
 
 A website typically consists of the following:
 
-### Header
+#### Header
 The top-most bar which sits at the top of a page. Typically holds the logo, a search bar, and perhaps a few other key navigation buttions.
 
-### Navigation Bar
+#### Navigation Bar
 This functions much like the index of the website. It is the modd by which a user can easily move around to other pages. A lot of times navigations are organized into menus and submenus. In more recent years, there has been a vast simplification of navigations for ease-of-use for users. 
 
-### Main Content
+#### Main Content
 This is what the user came for. Entertainment and information. Article texts, images and videos are placed here.
 
-### Sidebar
+#### Sidebar
 Not as common anymore, but this holds information which might be useful to the user or that the website wants the user to know. Many designers find that a sidebar which is not a navigation bar, should not be used. Context is key.
 
-### Footer
+#### Footer
 This sectin normally holds the site index, legal information, copyrights, and conact information.
 
 ## Metadata
@@ -133,8 +135,72 @@ Semantical elements are what give elements their role and meaning within a web p
 
 This is the advantage of semantic elements. Semantic elements take away the relative factor of an element. It also adds readability for the coder.
 
-## JavaScript
+
+## What Requires JavaScript?
+
+There are two things that require JavaScript. Storing values and APIs.
+
+Storing values - By storing input values from the user, the webpage becomes dynamic. This greatly increases the interactivity of a page. It also greatly increases what can be done. 
+
+### APIs
+
+APIs or Application Programming Interfaces, are the plug-and-play of a webpage. APIs are what allow other mapped data inputs, applications and more.
+
+#### Browser APIs - Information pulled from browser environment
+
++DOM (Document Object Model) - the top level organizer of HTML and CSS
++Geolocation - provides GPS and IP address.
++Canvas and WebGL - 2D and 3D graphics.
++Audio and Video - Video feed. Web camera, microphone inputs.
+	
+#### Third-party APIs - Code from Other Sites
++Examples:
++Twitter feed
++Maps
++Analytics
+	
+
+## Adding JavaScript
+
+To add JavaScript to a web page, the code can either be internal to the HTML document, or it can be external as a JavaScript file. Considerationg to stage of interpretation should be given. Referring to code which has not been loaded in will generate errors.
+
+### Internal
+
+To add internally, the JavaScript code can be inserted inbetween two script element tags.
+
+```
+<script>
+     alert("Hello World");
+</script>
+```
+
+### External
+
+For adding externally, there are two components. The first is the line referrencing the source JavaScript file. The second is the JavaScript file itself.
 
 
+#### HTML File
+
+The following line of script is normally found in the head section of the HTML file.
+
+```
+<script src="script.js"></script>
+```
+
+##### JavaScript File
+
+```
+alert("Hello World");
+```
+
+#### Location Inserts
+
+Note, by cleverly writing JavaScript code to also contain HTML therewithin, JavaScript can be targeted within an HTML page by containing a JavaScript function call within script elements. Here is an example:
+
+```
+<script>
+  visitorstatus()
+</script>
+```
 
 ## Things I want to know more about

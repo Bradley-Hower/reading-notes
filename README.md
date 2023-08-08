@@ -35,7 +35,7 @@ Nietzsche
 - Entry 8: [Operators and Loops](https://bradley-hower.github.io/reading-notes/operators-and-loops)
 
 ### Code 201 - Foundations of Software Development
-- Entry 1: [Setup Developer Toolbelt](https://bradley-hower.github.io/201-reading-notes/setup-developer-toolbelt)
+- Entry 1: [Setup Developer Toolbelt](https://bradley-hower.github.io/class-01)
 - Entry 2: [Introduction To Web Development](https://bradley-hower.github.io/201-reading-notes/introduction-to-web-development)
 - Entry 3: [Lists, The Box Model, and Loops](https://bradley-hower.github.io/201-reading-notes/lists-the-box-model,-and-loops)
 - Entry 4: [Links, Layouts, and Functions](https://bradley-hower.github.io/201-reading-notes/links-layouts-and-functions)
