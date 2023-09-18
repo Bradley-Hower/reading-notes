@@ -53,5 +53,20 @@ Nietzsche
 
 
 ### Code 301 - Intermediate Software Development
+- Entry 1: [React and Component-Based Architecture](https://bradley-hower.github.io/301-reading-notes/class-01)
+- Entry 2: [React State and Props](https://bradley-hower.github.io/301-reading-notes/class-02)
+- Entry 3: [Functions as Props](https://bradley-hower.github.io/301-reading-notes/class-03)
+- Entry 4: [React and Forms](https://bradley-hower.github.io/301-reading-notes/class-04)
+- Entry 5: [Conditional Rendering, Routing](https://bradley-hower.github.io/301-reading-notes/class-05)
+- Entry 6: [Asynchronous Code and Third Party APIs](https://bradley-hower.github.io/301-reading-notes/class-06)
+- Entry 7: [Express Servers](https://bradley-hower.github.io/301-reading-notes/class-07)
+- Entry 8: [APIs](https://bradley-hower.github.io/301-reading-notes/class-08)
+- Entry 9: [Modularization, Refactoring](https://bradley-hower.github.io/301-reading-notes/class-09)
+- Entry 10: [Persistence](https://bradley-hower.github.io/301-reading-notes/class-10)
+- Entry 11: [MongoDB, Mongoose and Data Modeling](https://bradley-hower.github.io/301-reading-notes/class-11)
+- Entry 12: [Creating and Deleting resources](https://bradley-hower.github.io/301-reading-notes/class-12)
+- Entry 13: [Updating Resources](https://bradley-hower.github.io/301-reading-notes/class-13)
+- Entry 14: [Diversity, Equity, Inclusion in Tech](https://bradley-hower.github.io/301-reading-notes/class-14)
+- Entry 15: [Authentication](https://bradley-hower.github.io/301-reading-notes/class-15)
 
 ### Code 401 - Advanced Software Development
