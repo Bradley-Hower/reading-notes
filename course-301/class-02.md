@@ -27,7 +27,9 @@ DOM and refs updated.
 
 *Additional, **componentDidUpdate()**. A method used to perform network requests upon changes.
 
-![Lifecycle_Diagram](https://github.com/Bradley-Hower/301-reading-notes/assets/139923955/9cc763c7-dee1-470f-810b-998e8216709c) [^1]
+![Lifecycle_Diagram](https://github.com/Bradley-Hower/301-reading-notes/assets/139923955/9cc763c7-dee1-470f-810b-998e8216709c)[^1]
+
+[^1]: <sub>Image source:[https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)</sub> 
 
 ## React State vs Props
 
@@ -54,5 +56,3 @@ Use state for:
 ## Things I want to know more about
 
 I would like to understand more contex of when to use static getDerivedStateFromProps() and componentDidUpdate().
-
-[^1]: Image Source: [https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
