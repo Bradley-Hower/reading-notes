@@ -88,14 +88,15 @@ A *closing tag* similarly consists of an opening angle bracket, a forward slash,
 
 ![HTML Element Illustrated](https://github.com/Bradley-Hower/reading-notes/assets/139923955/6eff7162-68fd-4e4d-9ed8-e2d65dc5a57f)[^1]
 
-[^1]: Image Source: [https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
-[^2]: Image Source: [https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+[^1]: <sub>Image source:[https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)</sub> 
 
 ### Attributes
 
 Living within the opening tag of the element is the **attribute**, which holds information to be used by that element. Similarly, as with elements, a coder should be mindful of the element within which the attribute lives. The attribute should make sense within the context of that element. For example, it may be the case that CSS would be better suited, rather than modifying with an attribute. The basic structure of an attribute consists of the attribute name, separated by a space from the element name, immediately followed by `=`, and then followed by the attribute value, wrapped in quotes.
 
 ![HTML Atttribute Illustrated](https://github.com/Bradley-Hower/reading-notes/assets/139923955/78f4e8d0-ff74-4d47-8931-97ac30c0baeb)[^2]
+
+[^2]: <sub>Image source:[https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)</sub> 
 
 ## HTML Tags
 
