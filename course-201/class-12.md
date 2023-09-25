@@ -85,6 +85,3 @@ To aid me in my previous creation, a chart can be added to the Odd Duck Products
 ## Things I want to know more about
 
 The use cases for using charts.js.
-
-
-[^1]: Source: https://www.javascripttutorial.net/web-apis/javascript-canvas/
