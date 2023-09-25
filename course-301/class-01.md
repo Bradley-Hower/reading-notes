@@ -1,4 +1,4 @@
-# Introduction to React and Components
+# *Course 201, Entry 1: Introduction to React and Components*
 
 ## Component-Based Architecture
 
