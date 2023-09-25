@@ -80,5 +80,5 @@ for (let i = 0; i <= 12; i = i +1){
 
 **For Loop Diagram**
 
-![for loop diagram](https://raw.githubusercontent.com/Bradley-Hower/reading-notes/main/forloop.png)
+![for loop diagram](https://github.com/Bradley-Hower/reading-notes/assets/139923955/ef5f0a38-f953-4d9d-83be-9e2f79926599)
 
