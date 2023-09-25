@@ -27,14 +27,14 @@ The spread operator effectively allows the coder to take the contents, of an ara
 
 Examples of uses:
 
-+ *Attached to variables.* This allows for easy copying and repurposing of an array.
++ **Attached to variables.** This allows for easy copying and repurposing of an array.
 
 ```
 const arr = [1, 2, 3];
 const arr2 = [...arr];
 ```
 
-+ *Applied as an argument within a function.* This can be done once or multiple times within an assortment of arguments.
++ **Applied as an argument within a function.** This can be done once or multiple times within an assortment of arguments.
 
 ```
 function myFunction(v, w, x, y, z) {}
@@ -42,14 +42,14 @@ const args = [0, 1];
 myFunction(-1, ...args, 2, ...[3]);
 ```
 
-+ *Used in a `new` instanciation.* This is a unique capability. The `.apply()` method, for example, can not do this.
++ **Used in a `new` instanciation.** This is a unique capability. The `.apply()` method, for example, can not do this.
 
 ```
 const dateFields = [1970, 0, 1]; // 1 Jan 1970
 const d = new Date(...dateFields);
 ```
 
-+ *A much cleaner and easier way to splice in an array within another array.* Otherwise, methods such as `.push()`, `.slice()`, `.unshift()`, etc, would have to be used. Likewise to function arguments, spread can be used multiple times within an array. Similarly, contatonation can be done easily, allow for the combination of arrays.
++ **A much cleaner and easier way to splice in an array within another array.** Otherwise, methods such as `.push()`, `.slice()`, `.unshift()`, etc, would have to be used. Likewise to function arguments, spread can be used multiple times within an array. Similarly, contatonation can be done easily, allow for the combination of arrays.
 
 ```
 const parts = ["shoulders", "knees"];
@@ -65,7 +65,7 @@ const arr2 = [3, 4, 5];
 arr1 = arr1.concat(arr2);
 ```
 
-+ *Combining objects.* The properies from multiple objects can be combined into one. Also, spread can be used to override the current properties of an object, as the last properties added in will replace any prior keys of the same name.
++ **Combining objects*.** The properies from multiple objects can be combined into one. Also, spread can be used to override the current properties of an object, as the last properties added in will replace any prior keys of the same name.
 
 ```
 const obj1 = { foo: "bar", x: 42 };
@@ -82,7 +82,7 @@ const obj2 = { foo: "baz", y: 13 };
 const mergedObj = { x: 41, ...obj1, ...obj2, y: 9 }; // { x: 42, foo: "baz", y: 9 }
 ```
 
-+ *Conditionally adding to an array.* With a boolean, a variable can be added in. How keen! This can also be done with objects.
++ **Conditionally adding to an array.** With a boolean, a variable can be added in. How keen! This can also be done with objects.
 
 ```
 const isSummer = false;
@@ -106,3 +106,7 @@ Spread can not mutate objects. `.asssign()` can, however. This means there the c
 
 
 Examples taken from [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+
+## Things I want to know more about
+
+What rest is in relation to spread.
