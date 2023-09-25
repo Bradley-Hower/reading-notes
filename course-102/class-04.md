@@ -107,6 +107,4 @@ For links, use the `<a></a>` element, also known as the anchor element. Spaced b
 
 <sub>Image source: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics</sub>
 
-[^1]
-
-[^1][^2]: <sub>Image source:[https://leadingwithtrust.com/2016/04/24/focus-on-the-7-minutes-not-the-2-seconds-3-leadership-lessons-from-skydiving/](https://leadingwithtrust.com/2016/04/24/focus-on-the-7-minutes-not-the-2-seconds-3-leadership-lessons-from-skydiving/)</sub> 
+[^1][^2]: <sub>Image source:[https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)</sub>
