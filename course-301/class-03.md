@@ -67,7 +67,8 @@ arr1 = arr1.concat(arr2);
 
 + *Combining objects.* The properies from multiple objects can be combined into one. Also, spread can be used to override the current properties of an object, as the last properties added in will replace any prior keys of the same name.
 
-```const obj1 = { foo: "bar", x: 42 };
+```
+const obj1 = { foo: "bar", x: 42 };
 const obj2 = { bar: "baz", y: 13 };
 
 const mergedObj = { ...obj1, ...obj2 };
