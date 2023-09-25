@@ -105,6 +105,4 @@ For links, use the `<a></a>` element, also known as the anchor element. Spaced b
 
 `<a href="https://github.com">GitHub</a>`
 
-<sub>Image source: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics</sub>
-
 [^1][^2]: <sub>Image source:[https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)</sub>
