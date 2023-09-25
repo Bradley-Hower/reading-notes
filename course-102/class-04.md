@@ -63,7 +63,7 @@ Living within the opening tag of the element is the **attribute**. Similarly, as
 
 ![HTML Atttribute Illustrated](https://github.com/Bradley-Hower/reading-notes/assets/139923955/78f4e8d0-ff74-4d47-8931-97ac30c0baeb)[^2]
 
-[^2]: <sub>Image source:[[HTML Atttribute Illustrated](https://github.com/Bradley-Hower/reading-notes/assets/139923955/78f4e8d0-ff74-4d47-8931-97ac30c0baeb)](https://github.com/Bradley-Hower/reading-notes/assets/139923955/78f4e8d0-ff74-4d47-8931-97ac30c0baeb)</sub> 
+[^2]: <sub>Image source:[HTML Atttribute Illustrated](https://github.com/Bradley-Hower/reading-notes/assets/139923955/78f4e8d0-ff74-4d47-8931-97ac30c0baeb](https://github.com/Bradley-Hower/reading-notes/assets/139923955/78f4e8d0-ff74-4d47-8931-97ac30c0baeb)</sub> 
 
 #### Nesting
 
@@ -109,4 +109,3 @@ For links, use the `<a></a>` element, also known as the anchor element. Spaced b
 
 `<a href="https://github.com">GitHub</a>`
 
-[^1][^2]: <sub>Image source:[https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)</sub>
