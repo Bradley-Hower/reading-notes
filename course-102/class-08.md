@@ -20,7 +20,7 @@ Loops have the ability to reduce repetitive parts of code. Also, loops allow ite
 
 In **while loops**, a **condition** is taken into consideration if it is true or false. A condition is any logical expression which can be tested. If the condition is true, the statement within the block is executed. In determining if a conditional statement is true or false, the computer is **evaluating** it. As the last written statement line, an increment or decrement is then applied (if applicable). Increments and decrements are written to be applied to argument values in an expression that is within the condition. Note, other more complex alterations can occur, other than just an increment or decrement. The while loop function then runs again, evaluating the condition. The process repeats (without limit) until the condition runs false at evaluation, at which point the loop will stop.
 
-![parts of while loop](https://raw.githubusercontent.com/Bradley-Hower/reading-notes/main/partsof_whileloops.png)
+![parts of while loops](https://github.com/Bradley-Hower/reading-notes/assets/139923955/f0e69fde-b261-4667-98a0-d69c1828d0fc)
 
 ### While Loop Example
 
@@ -42,7 +42,7 @@ j++
 
 ### While Loop Diagram
 
-![while loop diagram](https://raw.githubusercontent.com/Bradley-Hower/reading-notes/main/whileloop.png)
+![while loop diagram](https://github.com/Bradley-Hower/reading-notes/assets/139923955/5c0d22a0-852c-482f-a544-109a5058ab81)
 
 It is important to note, in JavaScript, any variables that are to be evaluated as part of a condition, must be declared and assigned outside of the while function. Within the loop, in the statements, variables can then be created or reassigned locally. This includes any variables that will again be evaluated within the condition. Remember that reassigning does not require declaration via a keyword.
 
@@ -53,7 +53,7 @@ It is important to note, in JavaScript, any variables that are to be evaluated a
 
 The condition, like in a while loop, is evaluated. If the condition is true, the loop statements execute and the **afterthought** is applied. The afterthought is like the increment or decrement, as mentioned in while loops. It too can be any alteration though.
 
-![parts of for loop](https://raw.githubusercontent.com/Bradley-Hower/reading-notes/main/partsof_forloops.png)
+![parts of for loops](https://github.com/Bradley-Hower/reading-notes/assets/139923955/01052d2e-5ff0-41de-ad0a-1612e0aa6fb3)
 
 ### For Loop Example
 
