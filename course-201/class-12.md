@@ -54,6 +54,8 @@ Output:
 
 ![2D Canvas Draw example](/canvasdraw.png)[^1]
 
+[^1]: <sub>Image source:[https://www.javascripttutorial.net/web-apis/javascript-canvas/](https://www.javascripttutorial.net/web-apis/javascript-canvas/)</sub> 
+
 The first two numbers in each parameter represent where to start, while the last two numbers represent the width and height.
 
 ## Chart.js
@@ -86,5 +88,3 @@ The use cases for using charts.js.
 
 
 [^1]: Source: https://www.javascripttutorial.net/web-apis/javascript-canvas/
-
-https://www.javascripttutorial.net/sample/webapis/canvas/
