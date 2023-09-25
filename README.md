@@ -49,8 +49,6 @@ Nietzsche
 - Entry 12: [Canvas and ChartJS](https://bradley-hower.github.io/reading-notes/course-201/class-12)
 - Entry 13: [Introduction to Persistence with Local Storage](https://bradley-hower.github.io/reading-notes/course-201/class-13)
 - Entry 14: [Documentation, Project Selection, & Team Workflow](https://bradley-hower.github.io/reading-notes/course-201/class-14)
-- Entry 15: [Course Recap & 301 Preview](https://bradley-hower.github.io/reading-notes/course-201/class-15)
-
 
 ### Code 301 - Intermediate Software Development
 - Entry 1: [React and Component-Based Architecture](https://bradley-hower.github.io/reading-notes/course-301/class-01)
