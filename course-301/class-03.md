@@ -112,7 +112,7 @@ The following Q&As are in reference to the following video: [https://www.youtube
 
 **In the video, what is the first step that the developer does to pass functions between components?**
 
-In the video, the developer passes the increment function down to the person level.
+In the video, the developer creates an arrow function, "Increment", at the App level which mirrors the state object. This function can then be used at the person level.
 
 **In your own words, what does the increment function do?**
 
@@ -120,11 +120,11 @@ The increment function allows the correct property to be identified at the state
 
 **How can you pass a method from a parent component into a child component?**
 
-Passing a method from a parent to a child can done by using an arrow function. Inside is the component within angle brackets. This moves in through props at the child constructor.
+Passing a method from a parent to a child can done by using an arrow function. Inside is the object within angle brackets. Then, thereunder as a property, within curly brackets, "this.methodname". In this case, "this.increment". This moves in through props at the child constructor.
 
 **How does the child component invoke a method that was passed to it from a parent component?**
 
-This is accomplished using `this.props.parentfunctionname()` syntax.
+This is accomplished using `this.props.parentfunctionname()` syntax. In this case, the element pushed through within the parenthesis was "this.prop.name".
 
 ## Things I want to know more about
 
