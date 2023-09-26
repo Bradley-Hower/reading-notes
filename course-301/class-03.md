@@ -100,13 +100,36 @@ const fruits = {
 // { apple: 10, banana: 5 }
 ```
 
-## Limits
+Note: "&&" can be used in place of "?" in the two above examples, as the conditional is a falsy. Once the conditional changes to true, the propery is added in this case.
+
+### Limits
 
 Spread can not mutate objects. `.asssign()` can, however. This means there the coder can't directly replace a property value.
 
+## Passing Functions Between Components
 
-Examples taken from [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+The following Q&As are in reference to the following video: [https://www.youtube.com/watch?v=c05OL7XbwXU](https://www.youtube.com/watch?v=c05OL7XbwXU)
+
+**In the video, what is the first step that the developer does to pass functions between components?**
+
+In the video, the developer passes the increment function down to the person level.
+
+**In your own words, what does the increment function do?**
+
+The increment function allows the correct property to be identified at the state level and the count therein to be incremented.
+
+**How can you pass a method from a parent component into a child component?**
+
+Passing a method from a parent to a child can done by using an arrow function. Inside is the component within angle brackets. This moves in through props at the child constructor.
+
+**How does the child component invoke a method that was passed to it from a parent component?**
+
+This is accomplished using `this.props.parentfunctionname()` syntax.
 
 ## Things I want to know more about
 
 What rest is in relation to spread.
+
+
+<sub>Example code taken from [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)</sub>
+
