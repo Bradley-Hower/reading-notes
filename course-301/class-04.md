@@ -110,3 +110,9 @@ Using ternary syntax:
 x===y ? console.log(true) : console.log(false)
 
 ```
+
+## Things I want to know more about
+
+"this.handleLogoutClick = this.handleLogoutClick.bind(this);"
+
+I need to read into more as to how this works the cases for when to use it.
