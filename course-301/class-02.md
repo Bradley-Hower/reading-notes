@@ -1,4 +1,4 @@
-# *Course 201, Entry 2: React State and Props*
+# *Course 301, Entry 2: React State and Props*
 
 ## React lifecycle
 

@@ -1,4 +1,4 @@
-# *Course 201, Entry 3: Passing Functions as Props*
+# *Course 301, Entry 3: Passing Functions as Props*
 
 ## .map()
 
