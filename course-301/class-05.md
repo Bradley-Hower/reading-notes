@@ -47,3 +47,7 @@ Line two is a setup for another function. In this example, after 10 is inserted 
 **Explain how either map or reduce operates, with regards to higher-order functions.**
 
 Map works by taking in another function and applying it to every element in an array.
+
+## Things I want to know more about
+
+When is it better to use higher-order functions vs multiple other functions? When is the line for single responsibility principle with regards to higher-order functions?
