@@ -16,7 +16,6 @@ LIFO stand for Last In First Out. It is in reference to how items are processed 
 
 **Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.**
 
-THREE PICTURES TO GO HERE
 ![Call Stack](https://github.com/Bradley-Hower/reading-notes/assets/139923955/ba75dad0-9762-46d3-84e3-a3a6fd3c7ce5)
 ![Call Stack Process](https://github.com/Bradley-Hower/reading-notes/assets/139923955/9ff2a712-6f7b-4d65-b1b3-304dbf9726f2)
 
