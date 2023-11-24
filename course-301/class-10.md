@@ -26,7 +26,7 @@ How does this fit in with the Event Loop? The callstack is a JavaScript runtime 
 
 **What causes a Stack Overflow?**
 
-A *Stack Overflow* occurs when a rescursive function (loop) occurs witout an exit. Once the stack memory allocations is exceeded, the stack error is thrown.
+A *Stack Overflow* occurs when a recursive function (loop) occurs without an exit. Once the stack memory allocations is exceeded, the stack error is thrown.
 
 ## JavaScript error messages
 
@@ -36,7 +36,7 @@ A variable is used but has not yet declared.
 
 **What is a ‘syntax error’?**
 
-An error in the syntax composition. Common syntax erros are missing commmas, parethesis or bracket notation.
+An error in the syntax composition. Common syntax errors are missing commas, parenthesis or bracket notation.
 
 **What is a ‘range error’?**
 
@@ -44,7 +44,7 @@ An invalid length has been entered. No negative lengths are allowed.
 
 **What is a ‘type error’?**
 
-The data type being used is not compatible with the place in which it is being used. This can also be due to a reference error, as the type error can precurse a reference error. This is because if a variable is undefined, there is no type.
+The data type being used is not compatible with the place in which it is being used. This can also be due to a reference error, as the type error can precursor a reference error. This is because if a variable is undefined, there is no type.
 
 **What is a breakpoint?**
 
