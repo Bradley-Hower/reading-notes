@@ -71,50 +71,51 @@ Nietzsche
 
 Module 1
 
-- Entry 1: [Intro to Python](https://bradley-hower.github.io/reading-notes/course-301/class-01)
-- Entry 2: [Modules and Testing](https://bradley-hower.github.io/reading-notes/course-301/class-02)
-- Entry 3: [File IO & Exceptions](https://bradley-hower.github.io/reading-notes/course-301/class-03)
-- Entry 4: [Object Oriented Programming](https://bradley-hower.github.io/reading-notes/course-301/class-04)
+- Entry prep: [Prep](https://bradley-hower.github.io/reading-notes/course-401/class-prep)
+- Entry 1: [Intro to Python](https://bradley-hower.github.io/reading-notes/course-401/class-01)
+- Entry 2: [Modules and Testing](https://bradley-hower.github.io/reading-notes/course-401/class-02)
+- Entry 3: [File IO & Exceptions](https://bradley-hower.github.io/reading-notes/course-401/class-03)
+- Entry 4: [Object Oriented Programming](https://bradley-hower.github.io/reading-notes/course-401/class-04)
 
 Module 2
 
-- Entry 6: [Guided Project 1](https://bradley-hower.github.io/reading-notes/course-301/class-06)
-- Entry 7: [Guided Project 2](https://bradley-hower.github.io/reading-notes/course-301/class-07)
-- Entry 8: [Guided Project 3](https://bradley-hower.github.io/reading-notes/course-301/class-08)
-- Entry 9: [Guided Project 4](https://bradley-hower.github.io/reading-notes/course-301/class-09)
+- Entry 6: [Guided Project 1](https://bradley-hower.github.io/reading-notes/course-401/class-06)
+- Entry 7: [Guided Project 2](https://bradley-hower.github.io/reading-notes/course-401/class-07)
+- Entry 8: [Guided Project 3](https://bradley-hower.github.io/reading-notes/course-401/class-08)
+- Entry 9: [Guided Project 4](https://bradley-hower.github.io/reading-notes/course-401/class-09)
 
 Module 3
 
-- Entry 11: [Intro to Data Science](https://bradley-hower.github.io/reading-notes/course-301/class-11)
-- Entry 12: [Data Analysis](https://bradley-hower.github.io/reading-notes/course-301/class-12)
-- Entry 13: [Linear Regressions](https://bradley-hower.github.io/reading-notes/course-301/class-13)
-- Entry 14: [Data Visualization](https://bradley-hower.github.io/reading-notes/course-301/class-14)
+- Entry 11: [Intro to Data Science](https://bradley-hower.github.io/reading-notes/course-401/class-11)
+- Entry 12: [Data Analysis](https://bradley-hower.github.io/reading-notes/course-401/class-12)
+- Entry 13: [Linear Regressions](https://bradley-hower.github.io/reading-notes/course-401/class-13)
+- Entry 14: [Data Visualization](https://bradley-hower.github.io/reading-notes/course-401/class-14)
 
 Module 4
 
-- Entry 16: [Serverless Functions](https://bradley-hower.github.io/reading-notes/course-301/class-16)
-- Entry 17: [Web Scraping](https://bradley-hower.github.io/reading-notes/course-301/class-17)
-- Entry 18: [Cryptography](https://bradley-hower.github.io/reading-notes/course-301/class-18)
-- Entry 19: [Automation](https://bradley-hower.github.io/reading-notes/course-301/class-19)
+- Entry 16: [Serverless Functions](https://bradley-hower.github.io/reading-notes/course-401/class-16)
+- Entry 17: [Web Scraping](https://bradley-hower.github.io/reading-notes/course-401/class-17)
+- Entry 18: [Cryptography](https://bradley-hower.github.io/reading-notes/course-401/class-18)
+- Entry 19: [Automation](https://bradley-hower.github.io/reading-notes/course-401/class-19)
 
 Module 6
 
-- Entry 26: [Intro to Django](https://bradley-hower.github.io/reading-notes/course-301/class-26)
-- Entry 27: [Django Models](https://bradley-hower.github.io/reading-notes/course-301/class-27)
-- Entry 28: [Django CRUD and Forms](https://bradley-hower.github.io/reading-notes/course-301/class-28)
-- Entry 29: [DjangoX](https://bradley-hower.github.io/reading-notes/course-301/class-29)
+- Entry 26: [Intro to Django](https://bradley-hower.github.io/reading-notes/course-401/class-26)
+- Entry 27: [Django Models](https://bradley-hower.github.io/reading-notes/course-401/class-27)
+- Entry 28: [Django CRUD and Forms](https://bradley-hower.github.io/reading-notes/course-401/class-28)
+- Entry 29: [DjangoX](https://bradley-hower.github.io/reading-notes/course-401/class-29)
 
 Module 7
 
-- Entry 31: [Django REST Framework & Docker](https://bradley-hower.github.io/reading-notes/course-301/class-31)
-- Entry 32: [Permissions & Postgresql](https://bradley-hower.github.io/reading-notes/course-301/class-32)
-- Entry 33: [Authentication & Production Server](https://bradley-hower.github.io/reading-notes/course-301/class-33)
-- Entry 34: [Back End Deployment](https://bradley-hower.github.io/reading-notes/course-301/class-34)
+- Entry 31: [Django REST Framework & Docker](https://bradley-hower.github.io/reading-notes/course-401/class-31)
+- Entry 32: [Permissions & Postgresql](https://bradley-hower.github.io/reading-notes/course-401/class-32)
+- Entry 33: [Authentication & Production Server](https://bradley-hower.github.io/reading-notes/course-401/class-33)
+- Entry 34: [Back End Deployment](https://bradley-hower.github.io/reading-notes/course-401/class-34)
 
 Module 8
 
-- Entry 36: [DS&A Review](https://bradley-hower.github.io/reading-notes/course-301/class-36)
-- Entry 37: [React + Next.JS](https://bradley-hower.github.io/reading-notes/course-301/class-37)
-- Entry 38: [React - Forms and Conditional Rendering](https://bradley-hower.github.io/reading-notes/course-301/class-38)
-- Entry 39: [Resource Fetching & Authentication](https://bradley-hower.github.io/reading-notes/course-301/class-39)
-- Entry 40: [Personal Presentation](https://bradley-hower.github.io/reading-notes/course-301/class-40)
+- Entry 36: [DS&A Review](https://bradley-hower.github.io/reading-notes/course-401/class-36)
+- Entry 37: [React + Next.JS](https://bradley-hower.github.io/reading-notes/course-401/class-37)
+- Entry 38: [React - Forms and Conditional Rendering](https://bradley-hower.github.io/reading-notes/course-401/class-38)
+- Entry 39: [Resource Fetching & Authentication](https://bradley-hower.github.io/reading-notes/course-401/class-39)
+- Entry 40: [Personal Presentation](https://bradley-hower.github.io/reading-notes/course-401/class-40)
