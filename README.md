@@ -72,6 +72,7 @@ Nietzsche
 Module 1
 
 - Entry prep: [Prep](https://bradley-hower.github.io/reading-notes/course-401/class-prep)
+- Entry prep: [The Growth Mindset](https://bradley-hower.github.io/reading-notes/course-401/the-growth-mindset)
 - Entry 1: [Intro to Python](https://bradley-hower.github.io/reading-notes/course-401/class-01)
 - Entry 2: [Modules and Testing](https://bradley-hower.github.io/reading-notes/course-401/class-02)
 - Entry 3: [File IO & Exceptions](https://bradley-hower.github.io/reading-notes/course-401/class-03)
