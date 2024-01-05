@@ -1,4 +1,4 @@
-![Screenshot_2024-01-01_18-42-22](https://github.com/Bradley-Hower/reading-notes/assets/139923955/330f3595-5789-4200-9454-9642f02d67aa)# *Course 401, Entry Prep*
+# *Course 401, Entry Prep*
 
 ## SQL
 
