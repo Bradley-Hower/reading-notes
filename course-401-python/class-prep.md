@@ -1,4 +1,4 @@
-# *Course 401, Entry Prep*
+![Screenshot_2024-01-01_18-42-22](https://github.com/Bradley-Hower/reading-notes/assets/139923955/330f3595-5789-4200-9454-9642f02d67aa)# *Course 401, Entry Prep*
 
 ## SQL
 
@@ -123,18 +123,28 @@ By using "LIMIT" and "OFFSET", the number of results can be limited and starting
 
 ## Table Data Types
 
-INSERT IMAGE
+![Screenshot_2024-01-01_21-58-49](https://github.com/Bradley-Hower/reading-notes/assets/139923955/441e600a-019c-4022-b376-52a5157ec183)
 
 ## Table Constraints
 
-INSERT IMAGE
+![Screenshot_2024-01-01_21-59-07](https://github.com/Bradley-Hower/reading-notes/assets/139923955/2cafe7ff-7616-4e9b-b7eb-716823be3e52)
 
 ## SQL Lessons 1 - 6 Screenshots
-
-INSERT IMAGES
+![Screenshot_2024-01-01_19-51-03](https://github.com/Bradley-Hower/reading-notes/assets/139923955/f2c6aae2-f441-4a0b-8412-c5e02c38723e)
+![Screenshot_2024-01-01_19-40-48](https://github.com/Bradley-Hower/reading-notes/assets/139923955/b5c12e60-f076-42cb-aeed-416b8587743c)
+![Screenshot_2024-01-01_19-17-42](https://github.com/Bradley-Hower/reading-notes/assets/139923955/244695f5-58c9-4df6-b7c0-f4d19f4901c0)
+![Screenshot_2024-01-01_18-50-43](https://github.com/Bradley-Hower/reading-notes/assets/139923955/783c5cc9-db7a-4fd8-9dcc-5688b4ef3e46)
+![Screenshot_2024-01-01_18-42-22](https://github.com/Bradley-Hower/reading-notes/assets/139923955/5638aebe-b21d-40d1-8d5b-94aee65a22f2)
+![Screenshot_2024-01-01_18-35-36](https://github.com/Bradley-Hower/reading-notes/assets/139923955/a3e1244b-62f1-4eae-801f-353c191edca4)
 
 ## SQL Lessons 13 - 18 Screenshots
 
-INSERT IMAGES
+![Screenshot_2024-01-01_22-17-24](https://github.com/Bradley-Hower/reading-notes/assets/139923955/e0bff2d6-148e-4c77-881a-e25495c8c031)
+![Screenshot_2024-01-01_22-14-09](https://github.com/Bradley-Hower/reading-notes/assets/139923955/40951f6f-6071-498c-b4ae-cc00fd3d3424)
+![Screenshot_2024-01-01_22-02-21](https://github.com/Bradley-Hower/reading-notes/assets/139923955/a963cef7-61dc-4896-a330-e6a061b9acc1)
+![Screenshot_2024-01-01_21-52-41](https://github.com/Bradley-Hower/reading-notes/assets/139923955/fcc6819e-517d-49dd-b82b-db118dbdf7c2)
+![Screenshot_2024-01-01_21-50-36](https://github.com/Bradley-Hower/reading-notes/assets/139923955/caa6ebe8-d1c1-41d7-b500-93c235ef8230)
+![Screenshot_2024-01-01_21-38-46](https://github.com/Bradley-Hower/reading-notes/assets/139923955/3cab0ed8-5bf9-4d1e-826b-3af0861d0401)
+
 
 Table Images Source: https://sqlbolt.com/lesson/creating_tables
