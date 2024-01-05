@@ -137,8 +137,4 @@ INSERT IMAGES
 
 INSERT IMAGES
 
-## GIT Practice
-
-INSERT IMAGES
-
 Table Images Source: https://sqlbolt.com/lesson/creating_tables

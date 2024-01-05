@@ -26,7 +26,7 @@ It appears I need to work on relationship management. I assess that I need to be
 
 ### Results of Bias Self-Assessment
 
-My strongest areas were related to understanding bias. The areas I was weakest is in knowing how to act to combat bias. I will admit, I don't know how to deal with this one. In the past, I encountered difficult situations related to employment. Perhaps this is what has made me so cautious at work.
+My strongest areas were related to understanding bias. The areas I was weakest is in knowing how to act to combat bias. I will admit, I don't know how to deal with this one. In the past, I encountered difficult situations related to employment. Perhaps this is what has made me so cautious to speak out at work.
 
 ## Things I want to know more about
 
