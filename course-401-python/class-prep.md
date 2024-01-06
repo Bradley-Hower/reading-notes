@@ -159,11 +159,11 @@ Console - A physical terminal with controls and a window.
 
 Shell - The command-line interpreter. Sits on top of the kernal. Takes in user command and convertering them to system calls to interact with the kernal. The ```echo $SHELL``` command prints the shell in use.
 
-INSERT IMAGE
+![0_Vb7H3gT2TbqMwtGC](https://github.com/Bradley-Hower/reading-notes/assets/139923955/d6305326-9bd2-46e4-8c57-c0cd0ee1390d)
 
 Command Line - Open area in terminal, after the prompt which accepts user inputs.
 
-INSERT IMAGE
+![Screenshot_2024-01-05_14-01-09](https://github.com/Bradley-Hower/reading-notes/assets/139923955/ae2da957-7b7a-48fb-b9f2-8e1cbf89e141)
 
 ### Terminal Commands
 
@@ -173,7 +173,7 @@ ls [options] [location] - Lists out all subdirectories.
 
 ls -l - The "-l" here is the option to print the long listing.
 
-INSERT IMAGE
+![Screenshot_2024-01-05_14-35-29](https://github.com/Bradley-Hower/reading-notes/assets/139923955/fb289f73-1b2f-44b1-9e44-e8b02fb1dc1c)
 
 ls -l /etc - The "/etc" lists the directory contents instead of the current directory.
 
