@@ -314,7 +314,9 @@ Tips
 + See different ways to enjoy the process.
 + Look at the positives.
 
+## Things I want to know more about
 
+How to get better at breaking problems down into smaller pieces.
 
 ### Questions
 
@@ -325,3 +327,13 @@ I have a unique talent at solving complex problems. And, with enough bandwidth, 
 ##### What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
 
 Take a break. Break it down into smaller pieces. Ask for help.
+
+## Data Structures and Algorithms
+
+## What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
+
+
+
+## How can we ensure that we’ll avoid an infinite recursive call stack?
+
+## Things I want to know more about
