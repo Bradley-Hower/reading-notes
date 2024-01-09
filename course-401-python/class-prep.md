@@ -314,7 +314,7 @@ Tips
 + See different ways to enjoy the process.
 + Look at the positives.
 
-## Things I want to know more about
+## Engineering Readings - Things I want to know more about
 
 How to get better at breaking problems down into smaller pieces.
 
@@ -330,10 +330,28 @@ Take a break. Break it down into smaller pieces. Ask for help.
 
 ## Data Structures and Algorithms
 
+Linked lists - Pointers, head to tail. Good at adding and deleteing. Bad at retrieving.
+
+Array - Long list of boxes of items. Good at retrieving. Adding can get complecated sometimes.
+
+Hash Tables (Objects, Dictionaries) - Works by using a hashing function to place the data. Good at retrieving and adding. Collisions can be bad.
+
+Stack - LIFO. Used for DFS. Efficient add and removal. Limited uses.
+
+Queue - FIFO. BFS. Efficient add and removal. Limited uses.
+
+Graphs - Nodes to nodes with edges. Arrow length is weighted. Good for complicated relationships
+
+Binary Search Tree - One parent, two children. Left child is less than right. Good for speed. Bad if unbalancing happens.
+
 ## What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
 
-
+Big-O. "A BST that doesn’t provide log n, for search at the very least, is useless, meaningless, unworthy of consideration." The target is efficiency. The data structure needs to fit the problem.
 
 ## How can we ensure that we’ll avoid an infinite recursive call stack?
 
-## Things I want to know more about
+In addition to the recursive case, put a limit via a base case. Construct the function to move towards teh base case. 
+
+## Data Structures and Algorithms - Things I want to know more about
+
+More examples of each data structure type.
