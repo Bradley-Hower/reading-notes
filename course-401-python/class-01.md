@@ -1,4 +1,4 @@
-# *Course 301, Entry 1: Introduction to React and Components*
+# *Course 401 Python, Entry 1: Introduction to React and Components*
 
 ## Pain and Suffering
 
