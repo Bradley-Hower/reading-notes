@@ -257,3 +257,71 @@ Fantastic. I have wanted to know well how to do file management in the terminal.
 
 Table Images Source: https://sqlbolt.com/lesson/creating_tables
 Kernal Structure Image Source: https://medium.com/analytics-vidhya/difference-between-terminal-console-shell-and-command-line-2441322b9b90
+
+
+## Engineering Readings
+
+### Act like you make $1000/hr
+
++ Spend less time on low-quality activities
++ Say yes to less
++ Don't just be busy
++ Value high productivity
+
+### How to think like a programmer
+
++ Be a more efficient problem solver
++ Don't use brute-force solutions
++ Use a framework
++ Break down big problems into smaller ones
+
+The Process
+
+1. Understand - Know what is being requested. Be able to explain in plain English.
+2. Plan - Set yourself out a step-by-step to reach the goal.
+3. Divide - Break it down into smaller parts, then connect the dots.
+4. Retrace - Go back over your steps and see where you went wrong. Sometimes, start over.
+5. Practice - Find an outlet to solve problems.
+
+Among this 70% of the 30 minutes to solve a problem should be spent thinking or brainstorming about it in some way, not writing code.
+
+### Solving Problems
+
++ Read the problem carefully. Be able to explain it to someone else.
++ Solve it manually.
++ Optimize the manual steps.
++ Write pseudo-code.
++ Replace pseudo-code with code.
++ Optimize code.
+
+
+### The 5 Whys
+
+The 5 whys technique was developed by Sakichi Toyoda, the founder of Toyota, in the 1930s. The concept is to deeply understand what is actually happening in order to solve the problem, rather than thinking you understand.
+
+How does it work? Ask why five times. Dig deeper with each question.
+
+Tips
+
++ Might not be suitable for complex problems that require a wholistic view.
++ Move quickly so as to not develop a solution too quickly.
++ Don't keep drilling if the you reach the end of productive answers.
+
+### The Super Mario Effect
+
++ Gamify how you solve problems.
++ When you fail, don't think of it as "Game Over"
++ See different ways to enjoy the process.
++ Look at the positives.
+
+
+
+### Questions
+
+#### What’s the one thing I bring to this career (and a potential employer) that nobody else can?
+
+I have a unique talent at solving complex problems. And, with enough bandwidth, will figure out how to solve any problem that I may have not seen before. This is all due to my persistence.
+
+##### What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
+
+Take a break. Break it down into smaller pieces. Ask for help.
