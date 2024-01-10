@@ -1,4 +1,4 @@
-# *Course 401 Python, Entry 1: Introduction to React and Components*
+# *Course 401 Python, Entry 2: Introduction to React and Components*
 
 ## In Tests We Trust - Test-driven development (TDD) with Python
 
