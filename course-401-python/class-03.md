@@ -1,4 +1,4 @@
-# *Course 401 Python, Entry 3: FileIO & Exceptions*
+# *Course 401 Python, Entry 3: File IO & Exceptions*
 
 ## A File
 
@@ -66,6 +66,19 @@ Modes to be used with *with*
 + **rb** or **wb** - Binary mode (read/write using byte data)
 
 Use .read to specify the size of content to read. Also, use .tell to give the current position. Together these can be used to toggle through a file. The .seek method can be used for writing but selecting where to start the next write. Note, seek will overwrite.
+
+### Read
+
+We have a couple of ways to read files:
+
++ .read(): reads the entire file.
++ .readline(size=n): reads n characters from the line. If n=0,-1 or empty, reads entire line. Useful when you only want to iterate over one line at a time.
++ .readlines(): readsthe remaining lines from the file and returns them as a list.
+
+### Writing
+
++ .write(string): This writes the string to the file.
++ .writelines(seq): This writes the sequence to the file. No line endings are appended to each sequence item. It’s up to you to add the appropriate line ending(s).
 
 ## File Objects
 
