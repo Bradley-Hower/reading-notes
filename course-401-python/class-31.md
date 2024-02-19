@@ -1,4 +1,4 @@
-# *Course 401 Python, Entry 26: Django REST Framework & Docker
+# *Course 401 Python, Entry 31: Django REST Framework & Docker
 
 **What are the key components of a Docker container, and how do they help streamline the development and deployment of applications?**
 
