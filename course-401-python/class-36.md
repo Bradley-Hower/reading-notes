@@ -1,4 +1,4 @@
-# *Course 401 Python, Entry 33: Authentication & Production Server
+# *Course 401 Python, Entry 36: DSA Review
 
 **What are the key pieces of advice mentioned in the “Whiteboard Advice” reading assignment for successfully tackling whiteboard interviews?**
 
