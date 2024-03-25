@@ -18,7 +18,7 @@ The **access token** is important for any future requests. It will need to be in
 
 Reasons include:
 
-- Like of security audits.
+- Lack of security audits.
 - `runserver` is slow.
 
 In contrast, a productions setup is fast and reliable.

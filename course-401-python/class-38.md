@@ -2,6 +2,8 @@
 
 **How does lifting state up in a React application help with managing data flow and what are the benefits of using this approach?**
 
+https://legacy.reactjs.org/docs/lifting-state-up.html
+
 Lifting state allows for two child components to be in sync with each other. In this way, the data is simultaneously transferred, which allows for a proper desired outcome. Rather than each being handled independently, and introducing the potential for a bunch of errors and synching issues, they are handled together in one parent state component, thus offering a single source of truth.
 
 **Explain the concept of conditional rendering in React and provide an example of how to implement it in a component.**
